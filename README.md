@@ -22,11 +22,11 @@ O módulo utiliza o método principal `calc(int a, int b, String op)` que delega
   * Operadores não mapeados emitem mensagem de alerta para o usuário.
 
 ## 🖼️ Prints da Execução dos Testes
-![Print dos testes passando](coloque_aqui_o_caminho_ou_link_da_sua_imagem)
+![Print dos testes passando](https://i.imgur.com/7DS89ln.png)
 > *Nota: Os testes demonstraram 100% de precisão tanto nos caminhos felizes quanto nos tratamentos de erros.*
 
 ## 📄 Prints da Documentação JavaDoc
-![Print do index.html gerado pelo javadoc](coloque_aqui_o_caminho_ou_link_da_sua_imagem)
+![Print do index.html gerado pelo javadoc](https://i.imgur.com/8N7BawY.png)
 
 ## 🔗 Link do Repositório
-[Clique aqui para acessar o repositório](cole_seu_link_do_github_aqui)
+[Clique aqui para acessar o repositório](https://github.com/thiago-t1/TestesRF)
